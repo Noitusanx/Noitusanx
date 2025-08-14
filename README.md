@@ -67,7 +67,7 @@ I'm a Software Engineer passionate about building scalable web applications, int
   _Stack:_ Next.js, Paddle
 
 
-  <details>
+<details>
 <summary>More Projects</summary>
 
 - **Psychology Practice Website** — services info & appointment booking  
