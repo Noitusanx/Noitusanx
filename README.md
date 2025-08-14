@@ -51,7 +51,8 @@ I'm a Software Engineer passionate about building scalable web applications, int
 - [Repflai](https://github.com/noitusanx/repflai) — AI-powered flashcard app with OCR & spaced repetition.  
   🔗 [Live Demo](https://repflai.vercel.app)
 
-**Reach me at:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habilnasution/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.habilnasution.me/)  
+**Reach me at:**<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habilnasution/)<br>
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.habilnasution.me/)<br>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habilnasutionx@gmail.com)
+
