@@ -92,11 +92,10 @@ I'm a Software Engineer passionate about building scalable web applications, int
   🔗 [Repo](https://github.com/Noitusanx/gwm) · [Live](https://gwm-stat-marketplace.com/)
 </details>
 
-
-
-**Reach me at:**<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habilnasution/)<br> 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.habilnasution.me/)<br> 
+**Reach me at:**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habilnasution/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.habilnasution.me/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:habilnasutionx@gmail.com)
+
 
 
