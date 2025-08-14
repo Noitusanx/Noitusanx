@@ -47,9 +47,52 @@ I'm a Software Engineer passionate about building scalable web applications, int
 
 </details>
 
-## Featured Projects
-- [Repflai](https://github.com/noitusanx/repflai) — AI-powered flashcard app with OCR & spaced repetition.  
-  🔗 [Live Demo](https://repflai.vercel.app)
+## 🚀 Featured Projects
+
+- **Repflai** — AI-powered flashcard app with OCR & spaced repetition  
+  🔗 [Repo](https://github.com/Noitusanx/repflai-app) · [Live](https://repflai.vercel.app/)  
+  _Role:_ Full-stack · _Stack:_ Next.js, Python/FastAPI, PostgreSQL, OCR, OpenAI, Cloud Run/Vercel
+
+- **Competitive Programming Training Website** — DSA/algorithms practice platform (ranking, problems, admin)  
+  🔗 [Repo](https://github.com/fadhrr/TCC-Frontend)  
+  _Role:_ Front-end · _Stack:_ Next.js, Tailwind CSS
+
+- **Cultivitea** — tea-plant disease detection (ML) with farmer education features  
+  🔗 [Repo](https://github.com/Noitusanx/cultivitea)  
+  _Role:_ Backend/Cloud · _Stack:_ Cloud Run, Cloud Storage, Firebase Auth (client: Jetpack Compose)
+
+- **Traveed** — expense tracker with AI features
+  🔗 [Live](https://traveed.app/)  
+  _Role:_ Payment Integration & Premium · _Highlights:_ Implemented **Paddle** checkout, webhooks, and premium feature gating  
+  _Stack:_ Next.js, Paddle
+
+
+  <details>
+<summary>More Projects</summary>
+
+- **Psychology Practice Website** — services info & appointment booking  
+  🔗 [Repo](https://github.com/Noitusanx/edukasi-ceria-praktik-psikolog) · [Live](https://edukasiceria.vercel.app/)
+
+- **Nepthune** — item-donation website  
+  🔗 [Repo](https://github.com/alfnsnff/Nepthune) · [Live](https://nepthune.vercel.app/)
+
+- **PETA (Tour Guide Platform)** — tour-guide booking  
+  🔗 [Repo](https://github.com/Habil-Ns/INF206-2023-2-PETA)
+
+- **“Catat Yuk!”** — Android note-taking app (CRUD)  
+  🔗 [Repo](https://github.com/Noitusanx/Catat-Yuk)
+
+- **Cancer Predictions** — ML-based cancer prediction  
+  🔗 [Repo](https://github.com/Noitusanx/ML-Google-Cloud)
+
+- **Search Engine** — search engine with ranking  
+  🔗 [Repo](https://github.com/Noitusanx/Search-Engine)
+
+- **SME Marketplace Website** — product catalog with WhatsApp ordering  
+  🔗 [Repo](https://github.com/Noitusanx/gwm) · [Live](https://gwm-stat-marketplace.com/)
+</details>
+
+
 
 **Reach me at:**<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habilnasution/)<br>
