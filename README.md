@@ -57,11 +57,11 @@ I'm a Software Engineer passionate about building scalable web applications, int
   🔗 [Repo](https://github.com/fadhrr/TCC-Frontend)  
   _Role:_ Front-end · _Stack:_ Next.js, Tailwind CSS
 
-- **Cultivitea** — tea-plant disease detection (ML) with farmer education features  
+- **Cultivitea** — Tea-plant disease detection (ML) with farmer education features  
   🔗 [Repo](https://github.com/Noitusanx/cultivitea)  
   _Role:_ Backend/Cloud · _Stack:_ Cloud Run, Cloud Storage, Firebase Auth (client: Jetpack Compose)
 
-- **Traveed** — expense tracker with AI features  
+- **Traveed** — Expense tracker with AI features  
   🔗 [Live](https://traveed.app/)  
   _Role:_ Payment Integration & Premium · _Highlights:_ Implemented **Paddle** checkout, webhooks, and premium feature gating  
   _Stack:_ Next.js, Paddle
@@ -70,13 +70,13 @@ I'm a Software Engineer passionate about building scalable web applications, int
 <details>
 <summary>More Projects</summary>
 
-- **Psychology Practice Website** — services info & appointment booking  
+- **Psychology Practice Website** — Services info & appointment booking  
   🔗 [Repo](https://github.com/Noitusanx/edukasi-ceria-praktik-psikolog) · [Live](https://edukasiceria.vercel.app/)
 
-- **Nepthune** — item-donation website  
+- **Nepthune** — Item-donation website  
   🔗 [Repo](https://github.com/alfnsnff/Nepthune) · [Live](https://nepthune.vercel.app/)
 
-- **PETA (Tour Guide Platform)** — tour-guide booking  
+- **PETA (Tour Guide Platform)** — Tour-guide booking  
   🔗 [Repo](https://github.com/Habil-Ns/INF206-2023-2-PETA)
 
 - **“Catat Yuk!”** — Android note-taking app (CRUD)  
@@ -85,10 +85,10 @@ I'm a Software Engineer passionate about building scalable web applications, int
 - **Cancer Predictions** — ML-based cancer prediction  
   🔗 [Repo](https://github.com/Noitusanx/ML-Google-Cloud)
 
-- **Search Engine** — search engine with ranking  
+- **Search Engine** — Search engine with ranking  
   🔗 [Repo](https://github.com/Noitusanx/Search-Engine)
 
-- **SME Marketplace Website** — product catalog with WhatsApp ordering  
+- **SME Marketplace Website** — Product catalog with WhatsApp ordering  
   🔗 [Repo](https://github.com/Noitusanx/gwm) · [Live](https://gwm-stat-marketplace.com/)
 </details>
 
