@@ -61,7 +61,7 @@ I'm a Software Engineer passionate about building scalable web applications, int
   🔗 [Repo](https://github.com/Noitusanx/cultivitea)  
   _Role:_ Backend/Cloud · _Stack:_ Cloud Run, Cloud Storage, Firebase Auth (client: Jetpack Compose)
 
-- **Traveed** — expense tracker with AI features
+- **Traveed** — expense tracker with AI features  
   🔗 [Live](https://traveed.app/)  
   _Role:_ Payment Integration & Premium · _Highlights:_ Implemented **Paddle** checkout, webhooks, and premium feature gating  
   _Stack:_ Next.js, Paddle
