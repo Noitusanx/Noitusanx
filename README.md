@@ -1,9 +1,6 @@
 # Hi, I'm Habil 👋
 I'm a Software Engineer passionate about building scalable web applications, integrating AI into modern tools, and leveraging cloud computing.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noitusanx&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noitusanx&layout=compact&theme=radical&hide=css,html)
-
 **Tech Stack:**
 
 <details>
